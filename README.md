@@ -4,8 +4,8 @@ Most importantly, I'm dad to 2 (:girl: & [:boy:](https://www.ncdsalliance.org/))
 
 And the rest in no particular order:
 - [Hokie :turkey:](https://www.vt.edu)
-- [Pythonista :snake:](https://python.org) and ~~C#ist~~... ~~C#er~~... [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) user
+- [Pythonista :snake:](https://python.org) and [C#er](https://docs.microsoft.com/en-us/dotnet/csharp/) primarily; having fun learning [Nim](https://nim-lang.org), too
 - [GitHub](https://github.com) product manager :octocat:
 - Beer lover :beer:
-- Board game enthusiast :game_die:
+- Board game enthusiast :game_die: and [Commander](https://mtgcommander.net/) player
 - Former (and maybe future) bass player :guitar:
