@@ -1,6 +1,6 @@
 # Who is vtbassmatt?
 
-Most importantly, I'm dad to 2 (:girl: & [:boy:](https://www.ncdsalliance.org/)) and husband to 1 :couple:
+Most importantly, I'm dad to 2 ( :girl: & :boy: ) and husband to 1 :couple:
 
 And the rest in no particular order:
 - [Hokie :turkey:](https://www.vt.edu)
